@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProcoreSample</string>
+    <string name="avatar_image">Display avatar image of each user who has made a PR</string>
+</resources>
